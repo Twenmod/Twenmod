@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=twenmod&label=Profile%20views&color=blueviolet&style=flat" alt="Twenmod" /> </p>
 
-[![wakatime](https://wakatime.com/badge/user/aeae9b0d-3e73-463b-9015-89c82ee5efbb.svg)](https://wakatime.com/@aeae9b0d-3e73-463b-9015-89c82ee5efbb)
+![wakatime](https://wakatime.com/badge/user/aeae9b0d-3e73-463b-9015-89c82ee5efbb.svg?color=812CD1)
 
 - I’m currently studying Y1 at Breda University of Applied Sciences.
 
