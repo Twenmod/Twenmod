@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Jack.</h1>
+<h3 align="center">C++ Game Graphics Programmer</h3>
 
-<!--
-**Twenmod/Twenmod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=twenmod&label=Profile%20views&color=blueviolet&style=flat" alt="Twenmod" /> </p>
 
-Here are some ideas to get you started:
+[![wakatime](https://wakatime.com/badge/user/aeae9b0d-3e73-463b-9015-89c82ee5efbb.svg?color=812CD1)](https://wakatime.com/@aeae9b0d-3e73-463b-9015-89c82ee5efbb)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I’m currently studying Y1 at Breda University of Applied Sciences.
+
+- You can find more about my projects on [my portfolio](https://www.jacktollenaar.top/).
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/jack-tollenaar-a35868312/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aaa" height="30" width="40" /></a>
+</p>
+
