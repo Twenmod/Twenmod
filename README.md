@@ -5,7 +5,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/aeae9b0d-3e73-463b-9015-89c82ee5efbb.svg?color=812CD1)](https://wakatime.com/@aeae9b0d-3e73-463b-9015-89c82ee5efbb)
 
-- I’m currently studying Y1 at Breda University of Applied Sciences.
+- I’m currently studying Y2 at Breda University of Applied Sciences.
 
 - You can find more about my projects on [my portfolio](https://www.jacktollenaar.top/).
 
